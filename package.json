@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hulijing/bookhotels/issues"
   },
-  "homepage": "https://github.com/hulijing/bookhotels#readme"
+  "homepage": "https://github.com/hulijing/bookhotels#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
