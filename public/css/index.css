@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://1366x768wallpaper.com/no-watermarks/originals/2015/11/18/caesars-palace-las-vegas-hotel--casino-wallpaper.jpg")
+}
+
+.masthead {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 200px 0;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  }
+
+  .masthead .intro-body {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  
+  .masthead .intro-body .brand-heading {
+    font-size: 50px;
+  }
+  
+  .masthead .intro-body .intro-text {
+    font-size: 18px;
+  }
